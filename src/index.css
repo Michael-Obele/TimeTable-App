@@ -13,4 +13,5 @@ code {
 }
 
 .tl {
+  word-wrap: break-all;
 }
